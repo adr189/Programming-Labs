@@ -1,0 +1,7 @@
+nao importa em que ordem estao as letras de uma palavra.
+de acordo com uma pesquisa de uma universidade inglesa, 
+estejam no lugar certo. o resto pode ser uma bagunca total, 
+a unica coisa importante e que a primeira e a ultima letra
+nos nao lemos cada letra isolada, mas a palavra como um todo.
+que ainda se pode ler o texto sem problema. isto e porque 
+esta eh a ultima linha, em numero impar

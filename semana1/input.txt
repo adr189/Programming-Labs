@@ -1,0 +1,3 @@
+Agora este texto vai ser usado 
+para testar o metodo que trunca as linhas 
+para ficarem com o mesmo comprimento
